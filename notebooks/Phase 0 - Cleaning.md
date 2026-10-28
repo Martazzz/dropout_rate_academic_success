@@ -57,7 +57,7 @@ Almost all categorical variables are stored as numeric codes. We translate them 
 ### Grouping categories with too many values
 For readable charts we deacided to group some similar values.
 - `Marital_Status` → `Marital_Group`: Single / Not single
-- `Application_Mode` → `Application_Mode_Group`: 18 different codes into 5 groups (`General contingent`, `Over 23 years old`, `Transfer or change`, `Prior diploma holder`, `Special or other`)
+- `Application_Mode` → `Application_Mode_Group`: 18 different codes into 5 groups (`General contingent`: ordinary admission, `Over 23 years old`: access reserved for people over 23, `Transfer or change`: transfer or change of course/institution, `Prior diploma holder`: people who already have another qualification, `Special or other`: special contingents, ordinances and other routes)
 - `Application_Order` → `Application_Order_Group`: `0-1`, `2`, `3+`
 - Parents' qualification → `Parent_Education`
 
