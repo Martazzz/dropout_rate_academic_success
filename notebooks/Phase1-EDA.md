@@ -105,9 +105,9 @@ We see that the median number of approved units in the 1st semester is 2 for stu
 
 | Block | Signals found in the EDA to investigate |
 |---|---|
-| **A** Demographics | age, gender, marital status, displaced |
-| **B** Economic situation | tuition fees, debtor, scholarship, financial risk |
-| **C** Admission and path | admission grade (lowest quartile), application mode, application order |
-| **D** First-year performance | approval rate, "no unit passed", grades, when the differences become visible |
-| **E** Course | differences between courses and between evening and daytime courses |
+| **A** (Demographics) | age, gender, marital status, displaced |
+| **B** (Economic situation) | tuition fees, debtor, scholarship, financial risk |
+| **C** (Admission and path) | admission grade (lowest quartile), application mode, application order |
+| **D** (First-year performance) | approval rate, "no unit passed", grades, when the differences become visible |
+| **E** (Course) | differences between courses and between evening and daytime courses |
 
