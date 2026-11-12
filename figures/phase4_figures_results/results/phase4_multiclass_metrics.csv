@@ -1,0 +1,13 @@
+scenario,model,cv_f1_macro,cv_f1_std,test_accuracy,test_f1_macro
+1a. At enrolment (no economic),Majority class,,,0.4994,0.2221
+1a. At enrolment (no economic),Logistic regression,0.499,0.0194,0.5367,0.4904
+1a. At enrolment (no economic),Random Forest,0.5143,0.0187,0.5175,0.4759
+1b. At enrolment (+ economic),Majority class,,,0.4994,0.2221
+1b. At enrolment (+ economic),Logistic regression,0.5507,0.011,0.5593,0.5331
+1b. At enrolment (+ economic),Random Forest,0.5586,0.0177,0.5684,0.536
+2. After 1st semester,Majority class,,,0.4994,0.2221
+2. After 1st semester,Logistic regression,0.6715,0.0156,0.6927,0.6541
+2. After 1st semester,Random Forest,0.687,0.0223,0.7107,0.6656
+3. After 2nd semester,Majority class,,,0.4994,0.2221
+3. After 2nd semester,Logistic regression,0.7081,0.015,0.7333,0.6958
+3. After 2nd semester,Random Forest,0.72,0.0155,0.7525,0.6949

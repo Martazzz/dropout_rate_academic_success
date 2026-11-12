@@ -1,0 +1,13 @@
+scenario,class,precision,recall,f1,support
+1a. At enrolment (no economic),Dropout,0.5169,0.4859,0.5009,284
+1a. At enrolment (no economic),Enrolled,0.2568,0.3585,0.2992,159
+1a. At enrolment (no economic),Graduate,0.6641,0.595,0.6277,442
+1b. At enrolment (+ economic),Dropout,0.6531,0.5634,0.6049,284
+1b. At enrolment (+ economic),Enrolled,0.2791,0.4528,0.3453,159
+1b. At enrolment (+ economic),Graduate,0.7094,0.6131,0.6578,442
+2. After 1st semester,Dropout,0.786,0.6725,0.7249,284
+2. After 1st semester,Enrolled,0.381,0.5535,0.4513,159
+2. After 1st semester,Graduate,0.8516,0.7919,0.8206,442
+3. After 2nd semester,Dropout,0.7977,0.7359,0.7656,284
+3. After 2nd semester,Enrolled,0.4639,0.4843,0.4738,159
+3. After 2nd semester,Graduate,0.8315,0.8597,0.8454,442

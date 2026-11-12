@@ -1,0 +1,23 @@
+,,drop,std
+1a,Demographics,0.0737,0.0138
+1a,Admission grades & mode,0.0209,0.0104
+1a,Course (+ shift),0.0278,0.0089
+1a,Parents' education,0.0061,0.0056
+1b,Demographics,0.0458,0.0164
+1b,Admission grades & mode,0.0105,0.0123
+1b,Course (+ shift),0.0298,0.0069
+1b,Parents' education,0.007,0.0049
+1b,Economic situation,0.1074,0.0107
+2,Demographics,0.0172,0.0062
+2,Admission grades & mode,-0.0045,0.0071
+2,Course (+ shift),0.0112,0.0035
+2,Parents' education,0.0014,0.0031
+2,Economic situation,0.0732,0.0077
+2,1st-semester performance,0.226,0.0122
+3,Demographics,0.0079,0.0085
+3,Admission grades & mode,0.0002,0.0054
+3,Course (+ shift),-0.0052,0.0078
+3,Parents' education,0.0025,0.0028
+3,Economic situation,0.054,0.0069
+3,1st-semester performance,0.0797,0.0099
+3,2nd-semester performance,0.2003,0.0143
